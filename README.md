@@ -4,7 +4,6 @@
 - Exploring and solving real-world problems through code.
 
 🌱 What I'm Learning
-  
   Currently sharpening my skills in:
 - React and state management
 - Backend development with Node.js and Express
