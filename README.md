@@ -1,17 +1,16 @@
 💻 What I Do
-
 - Building front-end and back-end applications using the MERN stack.
 - Practicing and improving my skills in DOM manipulation, JavaScript, and responsive design.
 - Exploring and solving real-world problems through code.
+
 🌱 What I'm Learning
-
-Currently sharpening my skills in:
-
+  
+  Currently sharpening my skills in:
 - React and state management
 - Backend development with Node.js and Express
 - Database design and optimization with MongoDB
-🎯 My Goals
 
+🎯 My Goals
 - Master full-stack web development
 - Contribute to open-source projects
 - Build impactful projects that solve meaningful problems
