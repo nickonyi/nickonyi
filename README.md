@@ -1,6 +1,7 @@
 # Hi, I'm Nickleyde 👋
 
-**IT Operations & Systems Administration** 
+### IT Operations | Systems Administration | Software Engineering
+
 I work at the intersection of IT operations, systems administration, and software development, with a focus on keeping technology reliable and building practical solutions to operational problems.
 
 My background includes supporting business-critical systems across multiple locations, troubleshooting infrastructure and application issues, automating repetitive tasks, and developing web applications backed by databases and APIs.
