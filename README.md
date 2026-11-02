@@ -44,7 +44,7 @@ A centralized application designed to improve visibility into IT support request
 
 **Technologies:** React, Node.js, Express, PostgreSQL.
 
-### 🏢 DistrictPass — Visitor Management System
+### 🏢 SecurePass — Visitor Management System
 **Software Engineering & Systems Integration**
 
 A role-based visitor management application designed to support access management and workflows involving residents, security personnel, and estate administrators.
