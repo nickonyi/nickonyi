@@ -1,26 +1,28 @@
 # Hi, I'm Nickleyde 👋
 
-### IT Operations | Systems Administration | Software Engineering
+### Systems & Software Engineer
 
-I work at the intersection of IT operations, systems administration, and software development, with a focus on keeping technology reliable and building practical solutions to operational problems.
+**IT Operations | Systems Administration | Software Engineering**
 
-My background includes supporting business-critical systems across multiple locations, troubleshooting infrastructure and application issues, automating repetitive tasks, and developing web applications backed by databases and APIs.
+I work across IT infrastructure, systems administration, and software development, helping organizations solve technical and operational problems through practical technology solutions.
 
-I'm interested in reliable infrastructure, maintainable software, automation, and the engineering practices that make systems easier to operate and support.
+My experience includes supporting business-critical systems across multiple locations in East Africa, troubleshooting infrastructure and application issues, improving operational processes, automating repetitive tasks, and developing web applications backed by databases and APIs.
+
+My approach starts with understanding the problem, evaluating the available options, and determining the most appropriate solution — whether through infrastructure, systems administration, automation, or software development.
 
 ---
 
 ## 🔧 What I Work With
 
-- **IT Operations:** End-user support, hardware deployment, incident troubleshooting, POS and back-office systems
-- **Systems & Infrastructure:** Windows, Linux, Active Directory fundamentals, remote access, networking, backups, and system maintenance
-- **Backend Development:** Node.js, Express, REST APIs, authentication, JavaScript
-- **Data & Databases:** PostgreSQL, SQL, Prisma ORM, database migrations
-- **Tools & Automation:** PowerShell, Git, Linux, deployment workflows, technical documentation
+- **IT Infrastructure & Systems Administration:** Windows Server, Linux, Active Directory, DNS, networking, VPN, remote administration, backups and system maintenance.
+- **Software Engineering:** JavaScript, TypeScript, React, Node.js, Express, REST API development.
+- **Databases & Data Management:** PostgreSQL, SQL, Prisma ORM, database design and migrations.
+- **Automation & Integration:** PowerShell, JavaScript scripting, REST API integration, file transfer automation and workflow improvement.
+- **Engineering Practices:** Troubleshooting, root cause analysis, authentication, authorization, system deployment and technical documentation.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### IT Support & Systems Operations
 
@@ -36,36 +38,42 @@ I'm interested in reliable infrastructure, maintainable software, automation, an
 ## 🚀 Featured Projects
 
 ### 🎫 Service Desk Reporting System
+**IT Operations & Business Process Improvement**
 
-An internal tool designed to improve visibility into IT support requests, recurring issues, and support activity across business locations.
+A centralized application designed to improve visibility into IT support requests, recurring issues, and support activities across business locations.
 
-**Focus:** React, Node.js, Express, PostgreSQL
+**Technologies:** React, Node.js, Express, PostgreSQL.
+
+### 🏢 DistrictPass — Visitor Management System
+**Software Engineering & Systems Integration**
+
+A role-based visitor management application designed to support access management and workflows involving residents, security personnel, and estate administrators.
+
+**Technologies:** React, Node.js, Express, PostgreSQL, Prisma, Passport.js.
 
 ### 📁 File Uploader
+**Full-Stack Application Development**
 
-A full-stack application exploring file management, authentication, session handling, database integration, and production deployment.
+A web application for uploading and organizing files, exploring authentication, session management, database integration, and application deployment.
 
-**Focus:** React, Node.js, Express, PostgreSQL, Prisma
-
-### 🏢 Visitor Management System
-
-A role-based application for managing visitor access and workflows across residential properties.
-
-**Focus:** React, Node.js, Express, PostgreSQL, Prisma
+**Technologies:** React, Node.js, Express, PostgreSQL, Prisma.
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🧭 What I'm Developing Toward
 
-- **IT Operations & Systems Administration** — reliable systems, infrastructure, troubleshooting, and security.
-- **Infrastructure & Cloud** — networking, server administration, deployment, and operational reliability.
-- **Software & Automation** — understanding application architecture and building tools that solve practical problems.
+I'm continuously developing my capabilities across:
 
-My focus is on understanding how business technology works end to end: the infrastructure, applications, data, and processes that keep services running.
+- **Systems Administration:** Managing and maintaining reliable infrastructure and business technology environments.
+- **Infrastructure & Cloud:** Networking, server administration, deployment, security, and operational reliability.
+- **Software Engineering:** Understanding application architecture and developing maintainable software solutions.
+- **Automation & Integration:** Improving operational efficiency through scripting, automation, and connecting systems.
+
+My broader interest is understanding how technology works as a complete environment — the infrastructure, applications, data, and processes that organizations depend on.
 
 ---
 
 ## 📫 Connect
 
 - 💻 GitHub: [github.com/nickonyi](https://github.com/nickonyi)
-- 💼 LinkedIn: [LinkedIn profile](https://www.linkedin.com/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/)
